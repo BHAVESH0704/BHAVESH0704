@@ -1,4 +1,5 @@
 Full-Stack Developer | Embedded Systems Enthusiast | Promt Engineering 
+
 I’m an engineering student with a strong foundation in both frontend and backend development, passionate about building impactful tech solutions. My skillset includes:
 💻 Frontend Technologies: HTML, CSS, JavaScript  and more
 🔧 Backend Development: Node.js, MySQL, MongoDB, REST APIs
